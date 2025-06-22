@@ -7,6 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching
 
-Organize your courses by years, topics, or universities, however you like!
+- **Introduction to Generative Model** – Instructor, Feb 2023  
+  _Tech University of Korea_
+
+- **Introduction to Artificial Intelligence** – Tutor, 2021, 2022, 2023  
+  _LG CNS_
+
+- **Reinforcement Learning** – Teaching Assistant, Fall 2022  
+  _Korea University_
