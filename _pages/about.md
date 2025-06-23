@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: "<span style='color:#ad1fa5;'>Affiliations</span>. Address. Contacts. Motto. Etc."
+# subtitle: <a href='#'>Affiliations</a> Korea University, Department of Artificial Intelligence.
+subtitle: "<span style='color:#ad1fa5;'>Affiliations</span>: Korea University, Department of Artificial Intelligence."
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hafelekarspitze, Nordkette Alps</p>
+    <p>Hafelekarspitze, Nordkette Alps⛰</p>
     <p>Innsbruck, Austria</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
