@@ -1,3 +1,4 @@
+{% comment %}
 <div class="news">
   {% if page.latest_posts != blank %}
     {% assign latest_posts_size = site.posts | size %}
@@ -43,6 +44,8 @@
       </table>
     </div>
   {% else %}
+
     <p>No posts so far...</p>
   {% endif %}
 </div>
+{% endcomment %}
