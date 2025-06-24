@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching-and-awards",
-          title: "teaching and awards",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching and Awards",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
