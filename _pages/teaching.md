@@ -14,18 +14,18 @@ nav_order: 6
 - **Introduction to Artificial Intelligence** – Tutor, 2021, 2022  
   _LG CNS_
   
-- **Advanced Big Data Analysis** – Teaching Assistant, Fall 2023, Fall 2024, Fall 2025
+- **Advanced Big Data Analysis** – Teaching Assistant, Fall 2023, Fall 2024, Fall 2025   
   _Korea University_
   
-- **Deep Learning** – Teaching Assistant, Spring 2022,   
+- **Deep Learning** – Teaching Assistant, Spring 2022,     
   _Korea University_
 
 ### Awards
 
-- **Research Challenger Program** – $2,200, 2022
+- **Research Challenger Program** – $2,200, 2022    
   _Korea University_
 
-- **Big Data–Driven Local Business Consulting Competition** – $1,500, 2022
+- **Big Data–Driven Local Business Consulting Competition** – $1,500, 2022     
   _KT_
 
 - **Capstone Design Fair** – Silver Prize, 2020  
