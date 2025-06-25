@@ -22,15 +22,15 @@ nav_order: 6
 
 ### Awards
 
-- **Research Challenger Program** – $2,200, 2022    
+- **Research Challenger Program** – 2022, $2,200     
   _Korea University_
 
-- **Big Data–Driven Local Business Consulting Competition** – $1,500, 2022     
+- **Big Data–Driven Local Business Consulting Competition** – 2022, $1,500       
   _KT_
 
-- **Capstone Design Fair** – Silver Prize, 2020  
+- **Capstone Design Fair** – 2020, Silver Prize      
   _Korea University_
   
-- **Capstone Design Fair** – Encouragement Award, 2020  
+- **Capstone Design Fair** – 2020, Encouragement Award      
   _Innovation Center for Engineering Education Seoul District_
   
