@@ -32,5 +32,5 @@ nav_order: 6
   _Korea University_
   
 - **Capstone Design Fair** – Encouragement Award, 2020  
-  _Korea University Innovation Center for Engineering Education Seoul District_
+  _Innovation Center for Engineering Education Seoul District_
   
