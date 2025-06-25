@@ -11,7 +11,7 @@ nav_order: 6
 - **Introduction to Generative Model** – Instructor, Feb 2023  
   _Tech University of Korea_
 
-- **Introduction to Artificial Intelligence** – Tutor, 2021, 2022  
+- **Introduction to Artificial Intelligence** – Tutor, 2022  
   _LG CNS_
   
 - **Advanced Big Data Analysis** – Teaching Assistant, Fall 2023, Fall 2024      
