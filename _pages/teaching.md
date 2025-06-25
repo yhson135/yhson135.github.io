@@ -14,7 +14,7 @@ nav_order: 6
 - **Introduction to Artificial Intelligence** – Tutor, 2021, 2022  
   _LG CNS_
   
-- **Advanced Big Data Analysis** – Teaching Assistant, Fall 2023, Fall 2024
+- **Advanced Big Data Analysis** – Teaching Assistant, Fall 2023, Fall 2024      
   _Korea University_
   
 - **Deep Learning** – Teaching Assistant, Spring 2022,     
