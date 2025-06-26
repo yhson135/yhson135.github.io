@@ -391,11 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-on-molecular-property-prediction-with-multi-representation-fusion-transformer-has-been-accepted-to-ieee-jbhi",
+          title: 'Our paper on molecular property prediction with multi-representation fusion transformer has been accepted...',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-our-paper-on-multi-objective-molecular-optimization-has-been-accepted-to-ijcai-2024-as-a-long-presentation",
+          title: 'Our paper on multi-objective molecular optimization has been accepted to IJCAI 2024 as...',
           description: "",
           section: "News",},{id: "news-our-paper-on-offline-molecular-optimization-has-been-accepted-to-icml-2025",
           title: 'Our paper on offline molecular optimization has been accepted to ICML 2025!',
