@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled "Offline Molecular Optimization" is accepted to ICML 2025!
+Our paper on offline molecular optimization has been accepted to ICML 2025!
