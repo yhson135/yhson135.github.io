@@ -27,10 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm **Young-Han Son**, a PhD candidate currently conducting research at the Department of Artificial Intelligence, Korea University, as part of the Molecular AI Team.
 
-My research focuses on **molecular optimization** for drug discovery and semiconductor design, as well as **optical physics**, particularly spectrometry and computational lithography. I’m especially interested in **optimization**, reinforcement learning for language models, and I am strongly interested in **physics-based modeling**.
 
-I'm also supervising various medical AI projects, including research on brain-computer interfaces (BCI) and radiology.
+Hello! I'm **Young-Han Son**, a PhD candidate at the Department of Artificial Intelligence, Korea University.
 
-Outside of research, I’m a coffee lover ☕ — I enjoy AeroPress and hand-drip brewing, and love exploring a variety of coffee beans.
+My research focuses on **physics-based modeling for computational lithography**, particularly on embedding optical physics, such as diffraction theory, into ML architectures. I am also working on **molecular optimization** for drug discovery, with interests in optimization and reinforcement learning.
+
+I also co-supervise projects in medical AI.
+
+Outside of research, I'm a coffee lover ☕ — I enjoy AeroPress and hand-drip brewing, and love exploring a variety of coffee beans.
