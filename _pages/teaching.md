@@ -8,7 +8,7 @@ nav_order: 6
 
 ### Teaching
 
-- **Introduction to Generative Model** – Instructor, Feb 2023  
+- **Introduction to Generative Model** – Instructor, Spring 2023  
   _Tech University of Korea_
 
 - **Introduction to Artificial Intelligence** – Tutor, 2022  
