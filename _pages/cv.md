@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 <iframe
-  src="{{ '/assets/pdf/cv.pdf' | relative_url }}"
+  src="{{ '/assets/pdf/26.04.28_CV_YoungHan_Son.pdf' | relative_url }}"
   width="100%"
   height="1100px"
   style="border: none;"
