@@ -29,7 +29,7 @@ latest_posts:
 
 
 
-Hello! I'm **Young-Han Son**, a PhD student in the Department of Artificial Intelligence, Korea University.
+Hello! I'm **Young-Han Son**, a PhD student in the Department of Artificial Intelligence at Korea University.
 
 My research focuses on embedding physics into machine learning. In **computational lithography**, I embed optical physics, such as diffraction theory, into ML architectures for lithography modeling and mask optimization. In **chemistry**, I work on DFT-based models, mainly **machine learning force fields (MLFFs)** and, more recently, **transition state estimation**.
 
